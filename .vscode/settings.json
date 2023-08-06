@@ -4,6 +4,7 @@
         "*.html": "html",
         "ostream": "cpp",
         "iostream": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "vector": "cpp"
     }
 }
