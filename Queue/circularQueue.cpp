@@ -19,7 +19,7 @@ class CQueue{
 
     void push(int data){
         // queue is full
-        if((front == 0 && rear == size-1 && front == rear +1)){
+        if((front == 0 && rear == size-1)){
             cout<<"Q is full, cannot insert."<<endl;
             return;
         }
